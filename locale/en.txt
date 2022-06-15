@@ -22,4 +22,4 @@ Image_92DA1BC5_BBEC_103B_41BF_A2E21D15D704.url = skin/Image_92DA1BC5_BBEC_103B_4
 ### Description
 
 ### Title
-tour.name = Test
+tour.name = JLL_Aerial_VT_2
